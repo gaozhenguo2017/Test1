@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
     class L1 implements View.OnClickListener{
         @Override
         public void onClick(View view){
-            t1.setText("这是一个鼠标事件响应");
+            t1.setText("这是一个鼠标事件响应ddddddd");
         }
     }
 
